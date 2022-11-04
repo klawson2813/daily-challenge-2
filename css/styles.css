@@ -1,0 +1,7 @@
+
+/*Goes at the bottom of the file so it can overwrite the default styles*/
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
